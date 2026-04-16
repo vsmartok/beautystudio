@@ -28,3 +28,10 @@ declare(strict_types=1);
 if (! defined('ABSPATH')) {
     exit;
 }
+
+define('BEAUTYSTUDIO_DIR', dirname(__FILE__) . DIRECTORY_SEPARATOR);
+define('BEAUTYSTUDIO_FILE', __FILE__);
+
+require_once __DIR__ . '/src/Support/Autoloader.php';
+
+BeautyStudio\Support\Autoloader::register();
