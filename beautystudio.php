@@ -15,7 +15,7 @@ declare(strict_types=1);
  * Description: Description of the plugin.
  * Author: Sergey Skorobagatko
  * Author URI: https://smrcore.com
- * Version: 0.1
+ * Version: 0.1.1
  * Requires at least: 6.9
  * Tested up to: 6.9.4
  * Requires PHP: 8.3
