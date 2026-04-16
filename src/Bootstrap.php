@@ -6,6 +6,7 @@ namespace BeautyStudio;
 
 use BeautyStudio\Contracts\Registrable;
 use BeautyStudio\Modules\Service\Manager as ServiceManager;
+use BeautyStudio\Support\I18n;
 
 class Bootstrap
 {
@@ -18,6 +19,7 @@ class Bootstrap
     public function __construct()
     {
         $this->modules = [
+            new I18n(),
             new ServiceManager(),
         ];
     }
