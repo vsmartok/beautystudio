@@ -35,3 +35,6 @@ define('BEAUTYSTUDIO_FILE', __FILE__);
 require_once __DIR__ . '/src/Support/Autoloader.php';
 
 BeautyStudio\Support\Autoloader::register();
+
+$plugin = new BeautyStudio\Bootstrap();
+$plugin->init();
