@@ -1,0 +1,149 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: EstetStudio Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-16 13:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.3; wp-6.9.4; php-8.3.30\n"
+"X-Domain: beautystudio"
+
+#: src/Modules/Service/PostType.php:49
+msgid "Add"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:50
+msgid "Add Service"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:59
+msgid "All Services"
+msgstr ""
+
+#. Description of the plugin
+msgid "Description of the plugin."
+msgstr ""
+
+#: src/Modules/Service/PostType.php:51
+msgid "Edit Service"
+msgstr ""
+
+#. Name of the plugin
+msgid "EstetStudio Core"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:64
+msgid "Filter services list"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://smrcore.com"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:62
+msgid "Insert into service"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:74
+msgctxt "navigation link block description"
+msgid "A link to a service."
+msgstr ""
+
+#: src/Modules/Service/PostType.php:73
+msgctxt "navigation link block title"
+msgid "Service Link"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:52
+msgid "New Service"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:57
+msgid "No services found in Trash."
+msgstr ""
+
+#: src/Modules/Service/PostType.php:56
+msgid "No services found."
+msgstr ""
+
+#: src/Modules/Service/PostType.php:46
+msgctxt "post type general name"
+msgid "Services"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:47
+msgctxt "post type singular name"
+msgid "Service"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:55
+msgid "Search Services"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sergey Skorobagatko"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:48
+msgid "Service"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:60
+msgid "Service Archives"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:61
+msgid "Service Attributes"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:68
+msgid "Service published privately."
+msgstr ""
+
+#: src/Modules/Service/PostType.php:67
+msgid "Service published."
+msgstr ""
+
+#: src/Modules/Service/PostType.php:69
+msgid "Service reverted to draft."
+msgstr ""
+
+#: src/Modules/Service/PostType.php:71
+msgid "Service scheduled."
+msgstr ""
+
+#: src/Modules/Service/PostType.php:70
+msgid "Service trashed."
+msgstr ""
+
+#: src/Modules/Service/PostType.php:72
+msgid "Service updated."
+msgstr ""
+
+#: src/Modules/Service/PostType.php:66
+msgid "Services list"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:65
+msgid "Services list navigation"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:63
+msgid "Uploaded to this service"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:53
+msgid "View Service"
+msgstr ""
+
+#: src/Modules/Service/PostType.php:54
+msgid "View Services"
+msgstr ""
