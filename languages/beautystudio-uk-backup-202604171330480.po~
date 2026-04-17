@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: EstetStudio Core\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-16 13:02+0000\n"
-"PO-Revision-Date: 2026-04-17 13:30+0000\n"
+"PO-Revision-Date: 2026-04-16 13:04+0000\n"
 "Last-Translator: \n"
 "Language-Team: Українська\n"
 "Language: uk\n"
@@ -98,7 +98,7 @@ msgstr ""
 
 #: src/Modules/Service/PostType.php:60
 msgid "Service Archives"
-msgstr "Послуги"
+msgstr ""
 
 #: src/Modules/Service/PostType.php:61
 msgid "Service Attributes"
